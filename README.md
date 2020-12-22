@@ -1,5 +1,15 @@
 ## Introduction
 
+### Kata selected
+Rover on Mars 
+https://kata-log.rocks/mars-rover-kata
+
+
+### Langage c-sharp
+https://dotnet.microsoft.com/download/dotnet-core/3.1
+
+
+
 This is a simple pipeline example for a .NET Core application with integrated XUnit tests that are ok for VS Code,
 and appear in the .Net Test Explorer tool (first install that extension in your VS Code)
  showing just how easy it is to get up and running with .NET development using GitLab while doing TDD.
