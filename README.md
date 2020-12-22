@@ -71,3 +71,5 @@ test:
 This should be enough to get you started. There are many, many powerful options 
 for your `.gitlab-ci.yml`. You can read about them in our documentation 
 [here](https://docs.gitlab.com/ee/ci/yaml/).
+
+test 
