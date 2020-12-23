@@ -9,6 +9,8 @@ https://kata-log.rocks/mars-rover-kata
 https://dotnet.microsoft.com/download/dotnet-core/3.1
 
 
+### using Nunit3 on netCore 3.1
+
 
 This is a simple pipeline example for a .NET Core application with integrated XUnit tests that are ok for VS Code,
 and appear in the .Net Test Explorer tool (first install that extension in your VS Code)
